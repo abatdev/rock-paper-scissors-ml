@@ -9,4 +9,5 @@ Implements remote play with express.js and socket.io
 
 ![Screen Shot 2022-10-02 at 3 58 14 PM](https://user-images.githubusercontent.com/114794597/193483803-105b0472-b800-4961-b866-3f16fb6d0123.png)
 
-![Screen Shot 2022-10-02 at 3 59 36 PM](https://user-images.githubusercontent.com/114794597/193483807-b1a2cce3-13ca-41f7-8bbd-719f4df80c90.png)
+
+![Screen Shot 2022-10-02 at 3 59 36 PM](https://user-images.githubusercontent.com/114794597/193483869-5325dcc6-c4c2-43e3-8c1f-8160ad345a4d.png)
